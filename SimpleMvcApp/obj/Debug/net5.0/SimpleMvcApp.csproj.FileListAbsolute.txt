@@ -1,0 +1,342 @@
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\appsettings.json
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.exe
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.deps.json
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.runtimeconfig.json
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.runtimeconfig.dev.json
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.dll
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ref\SimpleMvcApp.dll
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.pdb
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.Views.dll
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.Views.pdb
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.csproj.AssemblyReference.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.AssemblyInfoInputs.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.AssemblyInfo.cs
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorAssemblyInfo.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorAssemblyInfo.cs
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\staticwebassets\SimpleMvcApp.StaticWebAssets.Manifest.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\staticwebassets\SimpleMvcApp.StaticWebAssets.xml
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\scopedcss\bundle\SimpleMvcApp.styles.css
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.TagHelpers.input.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.TagHelpers.output.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorCoreGenerate.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorTargetAssemblyInfo.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorTargetAssemblyInfo.cs
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.Views.pdb
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.dll
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\ref\SimpleMvcApp.dll
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.pdb
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.genruntimeconfig.cache
+C:\Users\hewas\source\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.csproj.CopyComplete
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\appsettings.Development.json
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\appsettings.json
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.exe
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.deps.json
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.runtimeconfig.json
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.runtimeconfig.dev.json
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ref\SimpleMvcApp.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.pdb
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.Views.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.Views.pdb
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.csproj.AssemblyReference.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.AssemblyInfoInputs.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.AssemblyInfo.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.csproj.CoreCompileInputs.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorAssemblyInfo.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorAssemblyInfo.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\staticwebassets\SimpleMvcApp.StaticWebAssets.Manifest.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\staticwebassets\SimpleMvcApp.StaticWebAssets.xml
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\scopedcss\bundle\SimpleMvcApp.styles.css
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.TagHelpers.input.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.TagHelpers.output.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorCoreGenerate.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorTargetAssemblyInfo.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorTargetAssemblyInfo.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.Views.pdb
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\ref\SimpleMvcApp.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.pdb
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.genruntimeconfig.cache
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.csproj.CopyComplete
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Humanizer.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Message\Create.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Message\Delete.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Message\Details.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Message\Edit.cshtml.g.cs
+D:\repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Message\Index.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\appsettings.Development.json
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\appsettings.json
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.exe
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.deps.json
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.runtimeconfig.json
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.runtimeconfig.dev.json
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ref\SimpleMvcApp.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.pdb
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.Views.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\SimpleMvcApp.Views.pdb
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Humanizer.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.AssemblyInfoInputs.cache
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.AssemblyInfo.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.csproj.CoreCompileInputs.cache
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.MvcApplicationPartsAssemblyInfo.cache
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorAssemblyInfo.cache
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorAssemblyInfo.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\staticwebassets\SimpleMvcApp.StaticWebAssets.Manifest.cache
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\staticwebassets\SimpleMvcApp.StaticWebAssets.xml
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\scopedcss\bundle\SimpleMvcApp.styles.css
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.TagHelpers.input.cache
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.TagHelpers.output.cache
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorCoreGenerate.cache
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Message\Create.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Message\Delete.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Message\Details.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Message\Edit.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Message\Index.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorTargetAssemblyInfo.cache
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.RazorTargetAssemblyInfo.cs
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.Views.pdb
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.csproj.CopyComplete
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\ref\SimpleMvcApp.dll
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.pdb
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\SimpleMvcApp.genruntimeconfig.cache
+D:\VS repos\SimpleMvcApp\SimpleMvcApp\obj\Debug\net5.0\Razor\Views\Appointment\Index.cshtml.g.cs
