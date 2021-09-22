@@ -10,8 +10,8 @@ using SimpleMvcApp.Models;
 namespace SimpleMvcApp.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20210821025121_2")]
-    partial class _2
+    [Migration("20210922185935_re1")]
+    partial class re1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

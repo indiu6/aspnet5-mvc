@@ -8,7 +8,7 @@ using SimpleMvcApp.Models;
 
 namespace SimpleMvcApp.Migrations
 {
-    [DbContext(typeof(SimpleMvcAppContext))]
+    [DbContext(typeof(AppDbContext))]
     partial class SimpleMvcAppContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

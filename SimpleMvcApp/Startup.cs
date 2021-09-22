@@ -27,10 +27,10 @@ namespace SimpleMvcApp
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<SimpleMvcAppContext>(options =>
+            services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddDbContext<SimpleMvcAppContext>(options =>
+            services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("SimpleMvcAppContext")));
         }
 

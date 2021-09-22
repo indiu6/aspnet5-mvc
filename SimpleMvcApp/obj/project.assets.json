@@ -7155,24 +7155,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hewas\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\5865\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS repos\\SimpleMvcApp\\SimpleMvcApp\\SimpleMvcApp.csproj",
+      "projectUniqueName": "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj",
       "projectName": "SimpleMvcApp",
-      "projectPath": "D:\\VS repos\\SimpleMvcApp\\SimpleMvcApp\\SimpleMvcApp.csproj",
-      "packagesPath": "C:\\Users\\hewas\\.nuget\\packages\\",
-      "outputPath": "D:\\VS repos\\SimpleMvcApp\\SimpleMvcApp\\obj\\",
+      "projectPath": "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj",
+      "packagesPath": "C:\\Users\\5865\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hewas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\5865\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

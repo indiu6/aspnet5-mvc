@@ -11,9 +11,9 @@ namespace SimpleMvcApp.Controllers
 {
     public class MessageController : Controller
     {
-        private readonly SimpleMvcAppContext _context;
+        private readonly AppDbContext _context;
 
-        public MessageController(SimpleMvcAppContext context)
+        public MessageController(AppDbContext context)
         {
             _context = context;
         }

@@ -6,9 +6,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace SimpleMvcApp.Models
 {
-    public class SimpleMvcAppContext : DbContext
+    public class AppDbContext : DbContext
     {
-        public SimpleMvcAppContext (DbContextOptions<SimpleMvcAppContext> options)
+        public AppDbContext (DbContextOptions<AppDbContext> options)
             : base(options)
         {
         }

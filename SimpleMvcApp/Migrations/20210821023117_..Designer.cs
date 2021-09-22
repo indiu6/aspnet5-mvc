@@ -9,7 +9,7 @@ using SimpleMvcApp.Models;
 
 namespace SimpleMvcApp.Migrations
 {
-    [DbContext(typeof(SimpleMvcAppContext))]
+    [DbContext(typeof(AppDbContext))]
     [Migration("20210821023117_.")]
     partial class _
     {
