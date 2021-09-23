@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj": {}
+    "D:\\GithubRepos\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj": {
+    "D:\\GithubRepos\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj",
+        "projectUniqueName": "D:\\GithubRepos\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj",
         "projectName": "SimpleMvcApp",
-        "projectPath": "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj",
-        "packagesPath": "C:\\Users\\5865\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\obj\\",
+        "projectPath": "D:\\GithubRepos\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj",
+        "packagesPath": "C:\\Users\\hewas\\.nuget\\packages\\",
+        "outputPath": "D:\\GithubRepos\\aspnet5-mvc\\SimpleMvcApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\5865\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hewas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

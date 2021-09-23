@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleMvcApp.Models
 {
-    public class Item
+    public class Items
     {
         [Key]
         public int Id { get; set; }

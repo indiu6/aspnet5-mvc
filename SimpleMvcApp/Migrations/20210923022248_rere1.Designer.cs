@@ -2,15 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SimpleMvcApp.Models;
 
 namespace SimpleMvcApp.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class SimpleMvcAppContextModelSnapshot : ModelSnapshot
+    [Migration("20210923022248_rere1")]
+    partial class rere1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
