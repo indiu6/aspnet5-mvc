@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GithubRepos\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj": {}
+    "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj": {}
   },
   "projects": {
-    "D:\\GithubRepos\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj": {
+    "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GithubRepos\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj",
+        "projectUniqueName": "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj",
         "projectName": "SimpleMvcApp",
-        "projectPath": "D:\\GithubRepos\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj",
-        "packagesPath": "C:\\Users\\hewas\\.nuget\\packages\\",
-        "outputPath": "D:\\GithubRepos\\aspnet5-mvc\\SimpleMvcApp\\obj\\",
+        "projectPath": "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\SimpleMvcApp.csproj",
+        "packagesPath": "C:\\Users\\5865\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\5865\\Desktop\\gh\\aspnet5-mvc\\SimpleMvcApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hewas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\5865\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,17 +42,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[5.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[5.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[5.0.10, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration": {
               "target": "Package",
