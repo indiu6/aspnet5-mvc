@@ -13,6 +13,6 @@ namespace SimpleMvcApp.Models
         {
         }
 
-        public DbSet<Items> Message { get; set; }
+        public DbSet<Item> Items { get; set; }
     }
 }
