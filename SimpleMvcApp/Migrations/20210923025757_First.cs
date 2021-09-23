@@ -2,7 +2,7 @@
 
 namespace SimpleMvcApp.Migrations
 {
-    public partial class re4 : Migration
+    public partial class First : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

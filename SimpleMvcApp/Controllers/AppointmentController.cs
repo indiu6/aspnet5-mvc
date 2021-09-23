@@ -12,11 +12,5 @@ namespace SimpleMvcApp.Controllers
         {
             return View();
         }
-
-        public IActionResult Bad()
-        {
-            var result = new BadRequestObjectResult(new { });
-            return result;
-        }
     }
 }
