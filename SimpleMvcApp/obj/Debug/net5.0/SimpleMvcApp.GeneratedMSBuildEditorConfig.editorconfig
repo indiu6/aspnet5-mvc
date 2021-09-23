@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = SimpleMvcApp
-build_property.ProjectDir = D:\GithubRepos\aspnet5-mvc\SimpleMvcApp\
+build_property.ProjectDir = C:\Users\5865\Desktop\gh\aspnet5-mvc\SimpleMvcApp\
